@@ -1,13 +1,13 @@
 {
   "name": "hapi_imagemin",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "轻量级图片压缩工具",
   "main": "index.js",
   "directories": {
     "lib": "lib"
   },
   "bin": {
-    "hapi": "./bin/index.js"
+    "image": "./bin/index.js"
   },
   "repository": {
     "type": "git",
