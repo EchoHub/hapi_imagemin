@@ -1,0 +1,33 @@
+{
+  "name": "hapi_imagemin",
+  "version": "1.0.0",
+  "description": "轻量级图片压缩工具",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "bin": {
+    "hapi": "./bin/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EchoHub/hapi_imagemin.git"
+  },
+  "keywords": [
+    "images",
+    "imagemin"
+  ],
+  "author": "echohub",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/EchoHub/hapi_imagemin/issues"
+  },
+  "homepage": "https://github.com/EchoHub/hapi_imagemin#readme",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "commander": "^4.0.0",
+    "images": "^3.0.2",
+    "mkdirp": "^0.5.1",
+    "node-pngquant-native": "^2.1.1"
+  }
+}
