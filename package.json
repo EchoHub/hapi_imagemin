@@ -1,6 +1,6 @@
 {
   "name": "hapi_imagemin",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "轻量级图片压缩工具",
   "main": "index.js",
   "directories": {
