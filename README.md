@@ -18,3 +18,5 @@ hapi compress <source> <dest>
 
 ### -mark <value> 设置图像水印
 
+## Keywords
+hapi images png jpeg jpg
